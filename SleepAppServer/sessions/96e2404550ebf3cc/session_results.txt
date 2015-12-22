@@ -1,0 +1,44 @@
+Session number 1:
+x: max = 0.098068, min = -0.088257
+y: max = 0.088272, min = -0.078445
+z: max = 0.098069, min = -0.127488
+Session number 2:
+x: max = 0.068649, min = -0.117661
+y: max = 0.098068, min = -0.078445
+z: max = 0.205948, min = -0.196136
+Session number 3:
+x: max = 0.107880, min = -0.098068
+y: max = 0.078461, min = -0.078445
+z: max = 0.147095, min = -0.147110
+Session number 4:
+x: max = 0.117676, min = -0.107864
+y: max = 0.088257, min = -0.107880
+z: max = 0.147095, min = -0.117691
+Session number 5:
+x: max = 0.088257, min = -0.078461
+y: max = 0.078445, min = -0.058838
+z: max = 0.098068, min = -0.088273
+Session number 6:
+x: max = 8.394486, min = -9.502640
+y: max = 2.922379, min = -1.578873
+z: max = 1.039505, min = -2.775284
+Session number 12:
+x: max = 2.785095, min = -3.510773
+y: max = 3.471542, min = -3.324448
+z: max = 16.592835, min = -6.639100
+Session number 12:
+x: max = 0.225555, min = -0.333435
+y: max = 0.931625, min = -0.500137
+z: max = 0.274582, min = -0.284378
+Session number 12:
+x: max = 0.225555, min = -0.333435
+y: max = 0.931625, min = -0.500137
+z: max = 0.274582, min = -0.284378
+Session number 3:
+x: max = 0.068649, min = -0.098068
+y: max = 0.068649, min = -0.078445
+z: max = 0.098068, min = -0.127487
+Session number 3:
+x: max = 0.107880, min = -0.098068
+y: max = 0.078461, min = -0.078445
+z: max = 0.147095, min = -0.147110
