@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SleepApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_record_sleep_data">RecordSleepDataActivity</string>
+    <string name="title_activity_view_sleep">ViewSleepActivity</string>
+    <string name="title_activity_view_sleep_prediction">ViewSleepPrediction</string>
+</resources>

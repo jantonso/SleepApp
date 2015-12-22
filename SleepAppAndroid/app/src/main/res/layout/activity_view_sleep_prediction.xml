@@ -1,0 +1,30 @@
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.joshantonson.sleepapp.ViewSleepPrediction"
+    android:id="@+id/group_scroller"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal" >
+
+    <AbsoluteLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/al">
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back to main page"
+            android:id="@+id/back"
+            android:layout_x="1300dp"
+            android:layout_y="2dp" />
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ll"
+            android:orientation="horizontal">
+            <com.jjoe64.graphview.GraphView
+                android:layout_width="1500dip"
+                android:layout_height="220dip"
+                android:layout_marginTop="60dip"
+                android:id="@+id/graph" />
+        </LinearLayout>
+    </AbsoluteLayout>
+</HorizontalScrollView>
